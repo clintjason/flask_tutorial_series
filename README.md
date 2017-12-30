@@ -1,16 +1,16 @@
-										# COMPLETE FLASK TUTORIAL SERIES
+# COMPLETE FLASK TUTORIAL SERIES
 
-##Description
+## Description
 	This is a flask tutorial series aiming at providing practical and in depth theoritical knowledge
 	about the flask Framework. This tutorial will build you from being beginner to medium flask developer
 
-##Table of Content
+## Table of Content
 	Hello, World program
 
-##prerequisites
+## prerequisites
 	This tutorial is made with python27 and on ubuntu.
 
-##Installation
+## Installation
 	* Firstly, you need to fork the repository
 	
 	* Navigate to the repo
@@ -36,7 +36,7 @@
 	each sub projects describe the sub project.
 
 ## Credits
-	This project is entirely made by the author ** Clint Jason**
+	This project is entirely made by the author **Clint Jason**
 
 ## License
 	This project is under the **MIT License**.
