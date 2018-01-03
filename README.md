@@ -6,6 +6,8 @@
 
 ## Table of Content
 	Hello, World program
+	Flask Route() Basics
+	Passing variables to Route() decorator and variable ruless
 
 ## prerequisites
 	This tutorial is made with python27 and on ubuntu.
