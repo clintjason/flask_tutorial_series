@@ -9,4 +9,4 @@
 		$ export FLASK_APP=hello_world.py
 	- Run the flask application
 		$ flask run
-	- Click the link in the terminal to view the application running in the browser
+	- Click the link in the terminal to view the application running in the browser.
