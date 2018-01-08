@@ -8,6 +8,6 @@ app = Flask(__name__)	# __name__ is the name of the application's module
 #create a route to the hello_world function
 @app.route('/')	# route() is a decorator which defines what url will trigger the hello_world function
 def hello_world(): # this function name can also be used to generate or build the url to itself using url_for()
-	return 'Hello World'
+	return 'Hello, World'
 
 # the end for now
