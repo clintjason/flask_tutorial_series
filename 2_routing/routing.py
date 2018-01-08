@@ -11,7 +11,7 @@ def index():
 
 @app.route('/hello')
 def  hello():
-	return ' Hello, guys '
+	return ' Hello, guys'
 
 
 
