@@ -10,9 +10,9 @@ def  show_user_profile(username):
 def show_post(post_id):
 	return 'Post id is %d' % post_id
 
-@app.route('/float/<float:float_number>')	# Float converter accepts only positive floats
-def show_floats(float_number):
-	return 'Float Number is %f' % float_number
+@app.route('/float/<float:float_numbers>')	# Float converter accepts only positive floats
+def show_floats(float_numbers):
+	return 'Float Number is %f' % float_numbers
 
 @app.route('/showpath/<path:subpath>')#Path converter accepts strings and also slashes.In other wors accepts paths
 def show_path(subpath):
