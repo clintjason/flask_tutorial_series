@@ -11,7 +11,7 @@ def show_post(post_id):
 	return 'Post id is %d' % post_id
 
 @app.route('/float/<float:float_number>')	# Float converter accepts only positive floats
-def show_floats(float_numbers):
+def show_floats(float_number):
 	return 'Float Number is %f' % float_number
 
 @app.route('/showpath/<path:subpath>')#Path converter accepts strings and also slashes.In other wors accepts paths
