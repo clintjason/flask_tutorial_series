@@ -1,6 +1,6 @@
 from flask import Flask, render_template # from flask import render_template method
 
-app = Flask(__name__)
+app = Flask(__name__)	# Instantiate the flask application
 
 @app.route('/')
 @app.route('/<name>')
