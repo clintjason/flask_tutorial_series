@@ -1,4 +1,4 @@
-# 	How to handle http get and post requests in Flask
+# How to handle http get and post requests in Flask
 
 ## Description
 	This is a simple program to explain how to handle http get and post requests.
