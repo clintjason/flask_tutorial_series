@@ -9,6 +9,8 @@
 	Flask Route() Basics
 	Passing variables to Route() decorator and variable rules
 	URL Building with url_for()
+	How to handle http get and post requests in Flask
+	Template Rendering Basics
 
 ## prerequisites
 	This tutorial is made with python27 and on ubuntu.
