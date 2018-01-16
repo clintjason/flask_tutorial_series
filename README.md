@@ -11,6 +11,8 @@
 	URL Building with url_for()
 	How to handle http get and post requests in Flask
 	Template Rendering Basics
+	Getting started with the Request Object
+	File Upload basics
 
 ## prerequisites
 	This tutorial is made with python27 and on ubuntu.
