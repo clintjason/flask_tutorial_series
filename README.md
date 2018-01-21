@@ -13,6 +13,7 @@
 	Template Rendering Basics
 	Getting started with the Request Object
 	File Upload basics
+	Getting Started with Cookies
 
 ## prerequisites
 	This tutorial is made with python27 and on ubuntu.
