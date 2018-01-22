@@ -14,6 +14,7 @@
 	Getting started with the Request Object
 	File Upload basics
 	Getting Started with Cookies
+	Redirect and Errors
 
 ## prerequisites
 	This tutorial is made with python27 and on ubuntu.
