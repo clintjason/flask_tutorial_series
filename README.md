@@ -15,6 +15,7 @@
 	File Upload basics
 	Getting Started with Cookies
 	Redirect and Errors
+	Sessions
 
 ## prerequisites
 	This tutorial is made with python27 and on ubuntu.
