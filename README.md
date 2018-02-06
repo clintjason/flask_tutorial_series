@@ -47,7 +47,7 @@
 	each sub projects describe the sub project.
 
 ## Credits
-	This project is entirely made by the author __Clint Jason__
+	This project is entirely made by the author _Clint Jason_
 
 ## License
-	This project is under the __MIT License__.
+	This project is under the _MIT License_.
