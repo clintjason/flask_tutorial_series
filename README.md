@@ -16,29 +16,30 @@
 	Getting Started with Cookies
 	Redirect and Errors
 	Sessions
+	Message Flashing
 
 ## prerequisites
 	This tutorial is made with python27 and on ubuntu.
 
 ## Installation
-	- Firstly, you need to fork the repository
+- Firstly, you need to fork the repository
 	
-	- Navigate to the repo
+- Navigate to the repo
 	
-	- Create a  virtualenv
-		$virtualenv venv
+- Create a  virtualenv
+	$virtualenv venv
 	
-	- Activate the virtualenv:
-		$ . venv/bin/activate
+- Activate the virtualenv:
+	$ . venv/bin/activate
 	
-	- if you don't have the virtualenv install it:
-		$ sudo apt-get install python-virtualenv
+- if you don't have the virtualenv install it:
+	$ sudo apt-get install python-virtualenv
 
-	- if you are not using python27 and you are not on ubuntu, see:
-		[flask documentation](http://flask.pocoo.org/docs/0.12/installation/)  
+- if you are not using python27 and you are not on ubuntu, see:
+	[flask documentation](http://flask.pocoo.org/docs/0.12/installation/)  
 	
-	- Navigate to the repo and install Flask:
-		sudo pip install flask
+- Navigate to the repo and install Flask:
+	sudo pip install flask
 
 ## Usage
 	In this project each sub directory to the main directory is a sub project.
