@@ -1,8 +1,8 @@
 # COMPLETE FLASK TUTORIAL SERIES
 
 ## Description
-	This is a flask tutorial series aiming at providing practical and in depth theoritical knowledge
-	about the flask Framework. This tutorial will build you from being beginner to medium flask developer
+This is a flask tutorial series aiming at providing practical and in depth theoritical knowledge
+about the flask Framework. This tutorial will build you from being beginner to medium flask developer
 
 ## Table of Content
 	Hello, World program
@@ -19,7 +19,7 @@
 	Message Flashing
 
 ## prerequisites
-	This tutorial is made with python27 and on ubuntu.
+This tutorial is made with python27 and on ubuntu.
 
 ## Installation
 - Firstly, you need to fork the repository
@@ -42,12 +42,12 @@
 	sudo pip install flask
 
 ## Usage
-	In this project each sub directory to the main directory is a sub project.
-	The name of this sub projects describes the project. Also the read me file in
-	each sub projects describe the sub project.
+In this project each sub directory to the main directory is a sub project.
+The name of this sub projects describes the project. Also the read me file in
+each sub projects describe the sub project.
 
 ## Credits
-	This project is entirely made by the author _Clint Jason_
+This project is entirely made by the author __Clint Jason__
 
 ## License
-	This project is under the _MIT License_.
+This project is under the __MIT License__.
